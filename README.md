@@ -109,35 +109,15 @@ SQL-Sales-Data-Analysis/
 │
 ├── screenshots/
 │   ├── average_order_value.png
-<img width="307" height="171" alt="average_order_value" src="https://github.com/user-attachments/assets/8cf4d618-6358-447b-bd5c-20fb9e9c4a4d" />
-
 │   ├── case_query.png
-<img width="453" height="935" alt="case_query" src="https://github.com/user-attachments/assets/a19cacc9-2292-4b8f-ae41-fac0cc698f04" />
-
 │   ├── groupby_count.png
-<img width="306" height="170" alt="groupby_count" src="https://github.com/user-attachments/assets/b712d791-58b9-47e3-ba12-1efc0e0ee5ca" />
-
 │   ├── groupby_sum.png
-<img width="306" height="171" alt="groupby_sum" src="https://github.com/user-attachments/assets/5bb06ab5-640d-439a-92c3-e2890797bc83" />
-
 │   ├── orderby_query.png
-<img width="299" height="940" alt="orderby_query" src="https://github.com/user-attachments/assets/f3ab87de-6510-439b-aab4-a2d2b294e340" />
-
 │   ├── select_query.png
-<img width="451" height="938" alt="select_query" src="https://github.com/user-attachments/assets/74457c28-b25f-4fe2-898c-4c79e2ee13e6" />
-
 │   ├── sub_query.png
-<img width="305" height="941" alt="sub_query" src="https://github.com/user-attachments/assets/d39292ad-e38c-4aa3-84cd-889284decaa7" />
-
 │   ├── top_5_customer_limit_query.png
-<img width="306" height="207" alt="top_5_customer_limit_query" src="https://github.com/user-attachments/assets/7e093544-9d79-4e07-bff7-b82c41fa2292" />
-
 │   ├── top_customers.png
-<img width="303" height="718" alt="top_customers" src="https://github.com/user-attachments/assets/6a6db660-e1ce-4891-8a39-4573a7036153" />
-
 │   └── where_query.png
-<img width="300" height="936" alt="where_query" src="https://github.com/user-attachments/assets/7bc4aef1-d1c5-40c4-8a96-41f248a2a1a2" />
-
 │
 ├── sql/
 │   └── sales_analysis.sql
